@@ -96,5 +96,5 @@ describe("Campaigns", () => {
     balance = parseFloat(balance);
     console.log('balance', balance)
     assert(balance > 99)
-  })
+  });
 })
